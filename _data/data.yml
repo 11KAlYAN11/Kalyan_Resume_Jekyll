@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Kalyan Reddy Asam
-    tagline: Full Stack Java Developer
+    name: Asam Pavan Kumar Reddy
+    tagline: Java Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: ssslnkalyan@gmail.com
+    phone: 756 990 9956
+    timezone: India/IST # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    linkedin: http://www.linkedin.com/in/asam-pavan-kumar-reddy
+    xing: 
+    github: https://github.com/11KAlYAN11
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: https://twitter.com/KALYANR76021489
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,68 +36,78 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Telugu
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Fluent
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Hindi
+          level: Fluent
+        
+        - idiom: Kanada
+          level: Beginer
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Explorer
           link:
 
-        - item: Snowboarding
+        - item: Readin Books
           link:
 
-        - item: Cooking
+        - item: Internet Surfing
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     Three words to describe myself:
+
+        Radiant Smile
+        HardWorking with Smart planning
+        Self Confidence
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelors Of Technology (B.Tech)
+        university: RGMCET, Nandyal
+        time: 2019 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          My B. Tech journey is a rich tapestry of emotions, woven with diverse minds and distinct aspirations. 
+          It's not just about lectures and exams; it's a celebration of fun activities, memorable functions, and countless moments of joy.
+          In the sea of personalities, I found inspiration in a select few, 
+          shaping who I aspire to be, and equally valuable, who I don't want to become. Amidst the chaos, I discovered fragments of my purpose, 
+          making this academic chapter not just a pursuit of knowledge but a journey of self-discovery and growth.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Intermediate (Secondary Education)
+        university: Satya Sai Junior Collage, ATP, AP
+        time: 2017 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          In my two years of intermediate education, I discovered the art of effective self-teaching. 
+          It was here that the true meaning of hard work in my career took shape. Meeting incredible people and navigating challenging situations became the norm, 
+          equipping me with the skills to tackle them head-on. These years weren't just about academics; 
+          they were a transformative journey that defined my approach to learning and resilience.
             - Bullet point
             - Bullet point
+
+      - degree: Khadri High School (1st - 10th)
+        university: 
+        time: 2017 - 2019
+        details: Kadiri, Anathapur(Dist), AP
+          Here, in the roots of my existence, the journey began. As for the details, let's save that narrative for the future. 
+          Consider it a rendezvous waiting to unfold. Until then, catch you in the next chapter!
+            - Bullet point
+            - Bullet point      
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Software Engineer
+        time: 2023 - Present
+        company: HCL Tech, Banglore
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,9 +120,9 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Associate Software Engineer
+        time: 2023 - present
+        company: Tech Mahindra, Banglore
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,9 +131,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
+      - role: Cloud Intern
         time: 2012 - 2014
-        company: Amazon, London
+        company: Amazon, XYG
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -136,10 +146,10 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
+        - name: Salesforce Certified Platform Developer - 1, Salesforce
+          start: 2023
+          end: 2022
+          organization: Salesforce
           credentialid: 111-222
           credentialurl: www.google.com
           credentialname: Google
@@ -157,7 +167,23 @@ certifications:
             fringilla vel. Ut euismod, sem sed vulputate venenatis,
             justo diam viverra velit, sed rhoncus leo leo eu justo.
             Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Salesforce Certified Administrator, Salesforce
+          start: 2023
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+        - name: AWS Associate Cloud Developer, AWS
           start: 2019
           end:
           organization: Microsoft
@@ -173,6 +199,7 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
+    
 
 projects:
     title: Projects
@@ -181,25 +208,25 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: IoT-Based Prepaid Smart Energy Meter 2021
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Revolutionizing the energy landscape with an IoT-based prepaid smart energy meter! Imagine a future where human efforts at the billing counter are minimized, and traditional energy meters are upgraded to their next-gen counterparts. It's not just about convenience; it's a leap into the future of efficient, smart energy management. Welcome to the era where technology meets sustainability, transforming the way we monitor and pay for energy consumption."
 
-      - title: DevStudio
+      - title: Affordable Smart Door Bell 2022
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "In the age of COVID, where touchless technology is the new norm, our Affordable Smart Doorbell takes the lead. This budget-friendly gem not only redefines home security but also brings the added benefit of being touchless. No need to worry about unnecessary contact; a wave or a glance is all it takes. Elevate your doorstep experience with a touchless twist, ensuring both security and peace of mind in these unprecedented times. Welcome to the future of smart living, where safety meets affordability seamlessly."
 
-      - title: Tempo
+      - title: γ Radiation Image Enhancement Method Based on Non-Linear Mapping 2023
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "In the age of COVID, where touchless technology is the new norm, our Affordable Smart Doorbell takes the lead. This budget-friendly gem not only redefines home security but also brings the added benefit of being touchless. No need to worry about unnecessary contact; a wave or a glance is all it takes. Elevate your doorstep experience with a touchless twist, ensuring both security and peace of mind in these unprecedented times. Welcome to the future of smart living, where safety meets affordability seamlessly."
 
-      - title: Atom
+      - title: Machine Learning, Mouktik Technologies, Hyderabad 2022
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Navigating the world of Machine Learning at Mouktik Technologies in Hyderabad from Nov 2022 to Jan 2023 was a captivating experience. Beyond the timeline, it was a period marked by diving into insightful content and hands-on learning."
 
-      - title: Delta
+      - title: AWS Cloud Virtual Internship, AICTE, AWS academy 2022
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "The AWS Cloud Virtual Internship with AICTE and AWS Academy was more than just a stint—it was an opportunity to translate theoretical knowledge into practical solutions for real-world challenges. It provided invaluable insights into the application of learned concepts and paved the way for technological advancement."
 
 oss:
     title: OSS Contributions
@@ -246,22 +273,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java
         level: 95%
 
-      - name: Ruby on Rails
+      - name: JS, HTML5 & CSS
+        level: 80%
+
+      - name: Python
+        level: 90%
+
+      - name: Salesforce, AWS
+        level: 90%
+
+      - name: DevOps
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: SQL, Linux
         level: 60%
 
 footer: >
