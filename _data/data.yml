@@ -95,7 +95,7 @@ education:
 
       - degree: Khadri High School (1st - 10th)
         university: 
-        time: 2017 - 2019
+        time: xxxx - 2019
         details: Kadiri, Anathapur(Dist), AP
           Here, in the roots of my existence, the journey began. As for the details, let's save that narrative for the future. 
           Consider it a rendezvous waiting to unfold. Until then, catch you in the next chapter!
@@ -106,7 +106,7 @@ experiences:
     title: Experiences
     info:
       - role: Senior Software Engineer
-        time: 2023 - Present
+        time: 2024 - Present
         company: HCL Tech, Banglore
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -121,7 +121,7 @@ experiences:
             - Bullet point
             - Bullet point
       - role: Associate Software Engineer
-        time: 2023 - present
+        time: 2023 - 2024
         company: Tech Mahindra, Banglore
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -132,7 +132,7 @@ experiences:
             - Bullet point
             - Bullet point
       - role: Cloud Intern
-        time: 2012 - 2014
+        time: 2023 - 2023
         company: Amazon, XYG
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
